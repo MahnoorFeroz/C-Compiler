@@ -1,0 +1,18 @@
+< Keywords , int >
+< Identifiers , asal_ >
+< Punctuators , ( >
+< Keywords , int >
+< Identifiers , a_ >
+< Punctuators , ) >
+< Punctuators , [ >
+< Keywords , while >
+< Operators , < >
+< Identifiers , a_ >
+< Operators , == >
+< Number , 12 >
+< Operators , > >
+< Identifiers , a_ >
+< Operators , := >
+< Number , +123 >
+< Punctuators , ] >
+< Number ,  >

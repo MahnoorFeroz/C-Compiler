@@ -1,0 +1,5 @@
+Identifiers
+Number
+Operators
+Punctuators
+Keywords

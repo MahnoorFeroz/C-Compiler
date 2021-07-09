@@ -1,0 +1,5 @@
+int asal_ (int a_ )
+[
+    while < a_ == 12 > 
+        a_ := +123
+]999
